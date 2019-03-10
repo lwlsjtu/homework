@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aea04a14-b60d-41ab-965a-4ddd126aa5bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/lwl/Levenshtein.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lwl/Levenshtein.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lwl/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lwl/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/lwl/LevenshteinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/lwl/LevenshteinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -148,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552212946482" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552213316135" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -254,11 +252,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3549000" />
+    <option name="totallyTimeSpent" value="3971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="241" y="13" width="1000" height="664" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33545646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

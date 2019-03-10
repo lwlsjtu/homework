@@ -1,5 +1,5 @@
 package lwl;
-
+//工具类
 public class Levenshtein {
 
     public int getDistance(String str1,String str2){

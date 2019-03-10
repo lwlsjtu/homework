@@ -1,7 +1,7 @@
 package lwl;
 import lwl.Levenshtein;
 import java.util.*;
-
+//main函数
 public class test {
     public static void main(String[] args){
         Levenshtein levenshtein = new Levenshtein();

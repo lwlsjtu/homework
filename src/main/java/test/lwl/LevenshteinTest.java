@@ -36,7 +36,7 @@ public void testGetDistance() throws Exception {
 /** 
 * 
 * Method: getMin(int a, int b, int c) 
-* 
+* 1
 */ 
 @Test
 public void testGetMin() throws Exception { 
